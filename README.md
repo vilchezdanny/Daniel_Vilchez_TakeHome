@@ -4,6 +4,13 @@ This project aims to find meaningful insights in scraped Craigslist data and in 
 
 The project uses Python 3.8.12.
 
-The following command will install the required packages in the `requirements.txt`
 
-`pip install -r requirments.txt`
+
+Instructions for running the analysis on your computer. 
+
+1. Install a python virtual environment and conda environmnet
+2. Activate that environmnet
+3. Run `pip install -r requirments.txt` to install the necessary packages to your environment.
+4. Have fun!
+
+
