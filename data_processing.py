@@ -49,7 +49,7 @@ def drop_unnecessary_columns(df):
 
 def clean_year_column(df):
     """
-    Uses regex to find year in description to fill missing values in year column and cast to datetime
+    Uses regex to find year in description to fill missing values in year column and cast to int
     """
     df["description_year"] = df["description"].str.extract(
         r"([1-2][0][0-2][1-9])", expand=False
