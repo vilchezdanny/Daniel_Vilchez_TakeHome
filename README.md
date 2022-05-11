@@ -1,4 +1,4 @@
-# Exploring Craiglist Data to Build a Predictive Model for Car Prices
+# Exploring Craiglist Data to Predict Car Prices
 
 This project aims to find meaningful insights in scraped Craigslist data and in turn build a predictive model. 
 
